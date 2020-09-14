@@ -632,6 +632,11 @@ p {
   margin: 1rem;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
+
 /* Tailwind's utility classes - generated based on config file */
 
 .space-y-0 > :not(template) ~ :not(template) {
