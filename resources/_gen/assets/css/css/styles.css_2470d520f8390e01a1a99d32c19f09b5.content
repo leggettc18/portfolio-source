@@ -628,6 +628,10 @@ a {
   color: #b794f4;
 }
 
+p {
+  margin: 1rem;
+}
+
 /* Tailwind's utility classes - generated based on config file */
 
 .space-y-0 > :not(template) ~ :not(template) {

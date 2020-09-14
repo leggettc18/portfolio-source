@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:leggettc18/leggettc18.github.io.git
 	branch = main
+[submodule "themes/lenora"]
+	path = themes/lenora
+	url = git@github.com:leggettc18/lenora.git
