@@ -6,7 +6,7 @@ description: A short description about me.
 keywords: [about, creator]
 ---
 
-{{<figure alt="Me and Nora" src="https://res.cloudinary.com/dxg6jfbwk/image/upload/v1600051705/806628691_15602_nvmv4b.jpg" class="w-screen">}}
+![Me and Nora](https://res.cloudinary.com/dxg6jfbwk/image/upload/v1600051705/806628691_15602_nvmv4b.jpg)
 
 My name is Christopher Leggett, I'm an East Carolina University Graduate with a Bachelor of Science Degree in Computer Science. I am currently an IT technician by trade but my end goal is to be a Full Stack or Backend Developer.  
 
