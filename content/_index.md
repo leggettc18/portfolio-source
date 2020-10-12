@@ -4,4 +4,4 @@ title: Hi, and welcome.
 date: 2020-09-13
 ---
 
-Live long and code.
+Portfolio and blog of East Carolina University Computer Science Graduate and aspiring Software Engineer.

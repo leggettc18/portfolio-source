@@ -628,6 +628,10 @@ a {
   color: #b794f4;
 }
 
+a:hover {
+  color: #000000;
+}
+
 p {
   margin: 1rem;
 }
@@ -641,6 +645,10 @@ img {
 
 .logo {
   width: 2rem;
+}
+
+hr {
+  border-width: 1px;
 }
 
 /* Tailwind's utility classes - generated based on config file */
