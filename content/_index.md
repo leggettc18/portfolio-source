@@ -1,7 +1,7 @@
 ---
 author: Christopher Leggett
-title: Hi, and welcome.
+title: Christopher Leggett
 date: 2020-09-13
 ---
 
-Portfolio and blog of East Carolina University Computer Science Graduate and aspiring Software Engineer.
+Portfolio and Blog of East Carolina University Computer Science Graduate and aspiring Software Engineer.
