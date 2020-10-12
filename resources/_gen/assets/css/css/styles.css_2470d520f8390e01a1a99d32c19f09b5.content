@@ -638,9 +638,9 @@ p {
 
 /* purgecss ignore */
 
-img {
-  width: 100%;
-  height: auto;
+img[src$='#center'] {
+  display: block;
+  margin: 0.7rem auto;
 }
 
 .logo {
@@ -649,6 +649,23 @@ img {
 
 hr {
   border-width: 1px;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns:
+    1fr
+    min(65ch, 100%)
+    1fr;
+}
+
+.wrapper > * {
+  grid-column: 2;
+}
+
+.full-bleed {
+  width: 100%;
+  grid-column: 1 / 4;
 }
 
 /* Tailwind's utility classes - generated based on config file */
