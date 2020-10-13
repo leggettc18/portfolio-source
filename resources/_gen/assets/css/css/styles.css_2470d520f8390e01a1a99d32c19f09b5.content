@@ -663,6 +663,8 @@ hr {
   grid-column: 2;
 }
 
+/* purgecss ignore */
+
 .full-bleed {
   width: 100%;
   grid-column: 1 / 4;
