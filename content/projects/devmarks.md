@@ -8,6 +8,8 @@ Categories = ["Portfolio"]
 
 Devmarks is a bookmark manager intended for teams of developers to share bookmarks to documentation, intranet sites, and other valuable information. It is still in development so certain aspects of it are subject to change.
 
+<!--more-->
+
 Planned features include organizing bookmarks into folders and tags, and organizing users into organizations to more quickly share bookmarks and folders with a group of users. On the more technical side, it should have live-updating with WebSockets.
 
 The app currently consists of two parts, [an API](https://github.com/leggettc18/devmarks-api) and [a web frontend](https://github.com/leggettc18/devmarks-frontend-web). Other parts, such as a desktop app or browser extension, could also in theory be developed from the API.
