@@ -5,6 +5,7 @@ date = 2021-01-19T23:27:13-05:00
 description = "Simple space shooter game"
 tags = ["game", "javascript", "shooter"]
 categories = ["Portfolio"]
+github = "https://github.com/leggettc18/space-game"
 +++
 
 This is a very simple space shooter game written entirely in JavaScript. The goal of this 

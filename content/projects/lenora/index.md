@@ -5,6 +5,7 @@ date = 2021-01-19T23:50:03-05:00
 description = "Hugo theme with a focus on minimalism and elegance"
 tags = ["hugo", "thene", "minimalism"]
 categories = ["Portfolio"]
+github = "https://github.com/leggettc18/lenora"
 +++
 
 Lenora, in the context of this website, refers to its theme. It is a theme for the
