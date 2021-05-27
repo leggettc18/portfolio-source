@@ -36,3 +36,9 @@ for styling. It makes heavy use of the
 and mutations and update the in-memory cache, and it uses 
 [graphql-codegen](https://www.graphql-code-generator.com/) to
 generate Typescript types for all the GraphQL queries and such.
+
+There is currently a demo hosted at [demo.devmarks.app](https://demo.devmarks.app).
+This is still in what I would call alpha stages, so there may be bugs and
+data may be wiped at any time. Feel free to 
+[submit an issue](https://github.com/leggettc18/devmarks-frontend-web/issues) 
+if you come across any bugs!
