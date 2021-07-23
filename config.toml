@@ -2,3 +2,6 @@ baseURL = "https://chrisleggett.me/"
 languageCode = "en-us"
 title = "Christopher Leggett"
 theme = "lenora"
+
+[build]
+writeStats=true
