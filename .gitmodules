@@ -5,5 +5,4 @@
 [submodule "themes/lenora"]
 	path = themes/lenora
 	url = git@github.com:leggettc18/lenora.git
-[submodule "lenora"]
 	branch = master
