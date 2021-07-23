@@ -17,13 +17,13 @@ the resource requested by the path. For example, in a bookmark management app,
 you may be requesting a folder and embed the bookmarks in the folder
 with the following URL.
 
-```
+```Bash
 <baseUrl>/folders/<id>/?embed=bookmarks
 ```
 
 With that, you would receive a response body similar to the following:
 
-```
+```JSON
 {
     "id": 1,
     "name": "folder",
@@ -121,7 +121,8 @@ type Database struct {
 	*gorm.DB
 }
 
-// You should probably put this in your helpers function, I have it here for clarity.
+// You should probably put this in your helpers package,
+// I have it here for clarity.
 func contains(array []string, s string) bool {
 	for _, x := range array {
 		if x == s {

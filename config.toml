@@ -3,5 +3,9 @@ languageCode = "en-us"
 title = "Christopher Leggett"
 theme = "lenora"
 
+[markup]
+    [markup.highlight]
+    style = "monokailight"
+
 [build]
 writeStats=true
