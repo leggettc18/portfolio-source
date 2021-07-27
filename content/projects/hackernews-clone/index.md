@@ -6,6 +6,7 @@ description = "Hackernews clone utilizing a GraphQL API backend and a Vue-Apollo
 tags = ["go", "graphql", "apollo", "vuejs", "webdev", "backend", "fronted"]
 categories = ["Portfolio"]
 github = "https://github.com/leggettc18/hackernews-clone-api"
+portfolio_score = 50
 +++
 
 This is a small educational project I wrote up to teach myself GraphQL and how to implement a

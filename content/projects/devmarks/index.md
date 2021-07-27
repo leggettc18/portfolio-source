@@ -6,6 +6,7 @@ Tags = ["developers", "organization", "bookmarks"]
 Categories = ["Portfolio"]
 github = "https://github.com/leggettc18/devmarks-api"
 image = "devmarks.svg"
+portfolio_score = 1000
 +++
 
 Devmarks is a bookmark manager intended for teams of developers to share 

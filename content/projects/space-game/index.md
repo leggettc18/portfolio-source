@@ -6,6 +6,7 @@ description = "Simple space shooter game"
 tags = ["game", "javascript", "shooter"]
 categories = ["Portfolio"]
 github = "https://github.com/leggettc18/space-game"
+portfolio_score = 500
 +++
 
 This is a very simple space shooter game written entirely in JavaScript. The goal of this 
