@@ -2,6 +2,7 @@ baseURL = "https://chrisleggett.me/"
 languageCode = "en-us"
 title = "Christopher Leggett"
 theme = "lenora"
+disqusShortname = "chrisleggett-me"
 
 [markup]
     [markup.highlight]
