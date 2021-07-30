@@ -3,6 +3,7 @@ author = "Christopher Leggett"
 title = "Golang REST API Tip - Use an Embed Parameter to Embed Related Resources"
 date = 2021-07-22T23:37:34-04:00
 description = "A practical example demonstrating how to handle an embed parameter in a Golang REST API to embed or preload related resources."
+tags = ["go", "rest", "api", "embed"]
 +++
 
 In a REST API, you often have relations between resources. While you can certainly
