@@ -1,7 +1,6 @@
 ---
 author: Christopher Leggett
 title: About
-date: 2020-09-13
 description: A short description about me.
 keywords: [about, creator]
 ---
