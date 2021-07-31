@@ -4,6 +4,28 @@ title = "Christopher Leggett"
 theme = "lenora"
 disqusShortname = "chrisleggett-me"
 
+[menu]
+    [[menu.main]]
+        name = "About"
+        pre = "at-sign"
+        url = "/about"
+        weight = 1
+    [[menu.main]]
+        name = "Projects"
+        pre = "code"
+        url = "/projects"
+        weight = 2
+    [[menu.main]]
+        name = "Posts"
+        pre = "book-open"
+        url = "/posts"
+        weight = 3
+    [[menu.main]]
+        name = "Tags"
+        pre = "tag"
+        url = "/tags"
+        weight = 4
+
 [markup]
     [markup.highlight]
     style = "monokailight"
