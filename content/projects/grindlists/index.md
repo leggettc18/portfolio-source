@@ -2,11 +2,11 @@
 author = "Christopher Leggett"
 title = "Grindlists"
 date = 2021-08-13T09:42:56-04:00
-description =
+description = "Helping gamers organize their grinding sessions"
 tags = ["gaming", "organization", "graphql", "api", "grindlists", "go"]
 categories = ["Portfolio"]
-github = "https://github.com/leggettc18/grindlists
-image =
+github = "https://github.com/leggettc18/grindlists"
+image = ""
 portfolio_score = 1000
 +++
 
