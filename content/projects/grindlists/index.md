@@ -17,6 +17,8 @@ Sometimes those items also require crafting intermediate items, and it can be a
 lot to keep track of. The goal of Grindlists is to help gamers keep track of
 what items they need, how many they need, and where those items can be found.
 
+<!--more-->
+
 Grindlists is comprised of a React Frontend and a GraphQL backend. It currently
 uses JWT token-based authentication (with plans to implement OAuth support), a 
 PostgresQL database for storage, and a Redis server for caching. The main thing
