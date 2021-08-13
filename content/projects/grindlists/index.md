@@ -1,6 +1,6 @@
 +++
 author = "Christopher Leggett"
-title = Grindlists
+title = "Grindlists"
 date = 2021-08-13T09:42:56-04:00
 description =
 tags = ["gaming", "organization", "graphql", "api", "grindlists", "go"]
