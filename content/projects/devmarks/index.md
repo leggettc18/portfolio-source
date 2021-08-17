@@ -5,7 +5,7 @@ Descripion = "Bookmark Manager for Teams of Developers"
 Tags = ["developers", "organization", "bookmarks", "go", "rest", "api", "devmarks"]
 Categories = ["Portfolio"]
 github = "https://github.com/leggettc18/devmarks"
-image = "devmarks.svg"
+image = "devmarks.png"
 portfolio_score = 1000
 +++
 
