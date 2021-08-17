@@ -1,5 +1,6 @@
 +++
 title = "Devmarks"
+author= "Christopher Leggett"
 date = 2020-09-13T17:22:48-04:00
 Descripion = "Bookmark Manager for Teams of Developers"
 Tags = ["developers", "organization", "bookmarks", "go", "rest", "api", "devmarks"]
