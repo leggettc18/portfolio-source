@@ -4,6 +4,9 @@ title = "Christopher Leggett"
 theme = "lenora"
 disqusShortname = "chrisleggett-me"
 
+[params]
+    goatCounterCode = "chrisleggett-me"
+
 [menu]
     [[menu.main]]
         name = "About"
