@@ -7,9 +7,10 @@ tags = ["game", "javascript", "shooter"]
 categories = ["Portfolio"]
 github = "https://github.com/leggettc18/space-game"
 portfolio_score = 500
+image = "space-game.gif"
 +++
 
-This is a very simple space shooter game written entirely in JavaScript. The goal of this 
+This is a very simple space shooter game written entirely in JavaScript. The goal of this
 was not to make a very compelling or ground-breaking game, but to demonstrate what I believe
 are best practices, based on what I was able to find online.
 
