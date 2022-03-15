@@ -6,6 +6,7 @@ theme = "lenora"
 
 [params]
     goatCounterCode = "chrisleggett-me"
+    description = "The Portfolio and Blog of Christopher Leggett"
 
 [menu]
     [[menu.main]]
